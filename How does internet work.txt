@@ -1,0 +1,1 @@
+The internet is a global network of computers that communicate using protocols. Data is transferred via IP addresses, DNS (Domain Name System), and routers​

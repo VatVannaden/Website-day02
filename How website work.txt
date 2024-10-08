@@ -1,0 +1,1 @@
+When a user visits a website, the browser sends a request to a server. The server then sends back the webpage's HTML, CSS, and JavaScript files, and displays them.
